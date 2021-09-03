@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/oscar/CLionProjects/ListasDobles/Factura.h
+string
+-
+ostream
+-
+
+C:/Users/oscar/CLionProjects/ListasDobles/Gestion.cpp
+Gestion.h
+C:/Users/oscar/CLionProjects/ListasDobles/Gestion.h
+
+C:/Users/oscar/CLionProjects/ListasDobles/Gestion.h
+Factura.h
+C:/Users/oscar/CLionProjects/ListasDobles/Factura.h
+LinkedDoubles.cpp
+C:/Users/oscar/CLionProjects/ListasDobles/LinkedDoubles.cpp
+string
+-
+iostream
+-
+cstring
+-
+
+C:/Users/oscar/CLionProjects/ListasDobles/LinkedDoubles.cpp
+LinkedDoubles.h
+C:/Users/oscar/CLionProjects/ListasDobles/LinkedDoubles.h
+
+C:/Users/oscar/CLionProjects/ListasDobles/LinkedDoubles.h
+vector
+-
+string
+-
+Node.h
+C:/Users/oscar/CLionProjects/ListasDobles/Node.h
+
+C:/Users/oscar/CLionProjects/ListasDobles/Node.h
+cstdlib
+-
+
